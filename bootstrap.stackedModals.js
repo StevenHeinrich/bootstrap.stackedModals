@@ -1,3 +1,9 @@
+/**
+bootstrap.stackedModals - 0.1.0
+https://github.com/GeoSteve/bootstrap.stackedModals
+Copyright (c) 2014 Steven Heinrich
+License: MIT
+*/
 (function ($) {
   'use strict';
 
